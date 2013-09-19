@@ -1,6 +1,6 @@
 # LaddaOnRails
 
-TODO: Write a gem description
+A Ruby Gem of [Ladda.js] for your Rails Asset Pipeline
 
 ## Installation
 
@@ -18,7 +18,15 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    # Add this in your application.js
+
+    //= require ladda 
+    //= require spin
+
+    # And in your application.css
+
+    //= require ladda
+
 
 ## Contributing
 
@@ -27,3 +35,12 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## License
+
+  MIT License. Copyright (c) 2013 Robbie Marcelo, see [LICENSE] for full
+  details.
+
+
+[LICENSE]: http://github.com/rbmrclo/ladda_on_rails/blob/master/LICENSE.txt
+[Ladda.js]: http://github.com/hakimel/Ladda

@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = LaddaOnRails::VERSION
   spec.authors       = ["Robbie Marcelo"]
   spec.email         = ["rbmrclo@hotmail.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Ruby Gem of Ladda.js for Rails Asset Pipeline}
+  spec.summary       = %q{Ruby Gem of Ladda.js for Rails Asset Pipeline}
   spec.homepage      = ""
   spec.license       = "MIT"
 
