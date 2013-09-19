@@ -25,7 +25,7 @@ Or install it yourself as:
 
     # And in your application.css
 
-    //= require ladda
+    *= require ladda
 
 
 ## Contributing
