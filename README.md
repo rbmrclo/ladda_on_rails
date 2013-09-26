@@ -1,6 +1,6 @@
 # LaddaOnRails
 
-A Ruby Gem of [Ladda.js] for your Asset Pipeline
+A Ruby Gem of [Ladda.js] for your Rails Asset Pipeline
 
 ## Installation
 
