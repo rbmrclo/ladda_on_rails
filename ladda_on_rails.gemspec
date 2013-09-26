@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["rbmrclo@hotmail.com"]
   spec.description   = %q{Ruby Gem of Ladda.js for Rails Asset Pipeline}
   spec.summary       = %q{Ruby Gem of Ladda.js for Rails Asset Pipeline}
-  spec.homepage      = ""
+  spec.homepage      = "http://github.com/rbmrclo/ladda_on_rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
